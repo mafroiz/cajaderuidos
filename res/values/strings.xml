@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caja de Ruidos</string>
+    <string name="tituloAplicacion">MACHOS ALFA SOUNDS!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_acercaDe">Acerca de&#8230;</string>
+    <string name="boton_decepcion">Decepción</string>
+    <string name="boton_tristeza">Tristeza</string>
+    <string name="boton_obedece">Obedece</string>
+    <string name="boton_melapela">Me la pela</string>
+    <string name="boton_nomecabrees">No me cabrees</string>
+    <string name="boton_nopuedespararme">No puedes pararme</string>
+    <string name="acercaDe">Los Machos Alfa somos hombres de pocas palabras y es por esto que he realizado esta aplicación de modo que podamos expresarnos.</string>
+
+</resources>
